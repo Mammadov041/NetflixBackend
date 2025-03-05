@@ -1,6 +1,4 @@
-# Netflix Mobile App
-
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+# Netflix Backend 
 
 ## 📱 Overview
 This is a **Netflix Clone** mobile application built using **React Native CLI** and **JavaScript**. The app allows users to sign in, sign up, browse trending movies and TV shows, view detailed information about them, search for movies, TV shows, and actors, check profile info, view search history with details, and log out.
@@ -155,5 +153,5 @@ This project is **open-source** and available under the [MIT License](LICENSE).
 Feel free to submit issues, feature requests, or pull requests to improve the app!
 
 ---
-**Developed by [Your Name]**
+**Developed by Səid**
 
