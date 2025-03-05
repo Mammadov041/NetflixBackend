@@ -45,6 +45,3 @@
 # - **Database:** MongoDB (Mongoose)  
 # - **Auth:** JWT (if implemented)  
 # - **Frontend:** React (separate repo)  
-
-## License  
-# MIT License.  
